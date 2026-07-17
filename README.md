@@ -1,2 +1,14 @@
-# block-in-12-nixie-tube-clock
-IN-12 Nixie tube clock based on the ATmega328P using MiniCore. Features a solid aluminum enclosure, a rotary switch, and two push buttons for all user settings. Inspired by vintage control panels. No Wi-Fi. No Bluetooth. No app.
+# BLOCK IN-12 Nixie Tube Clock
+
+## Features
+
+- 4 × IN-12 Nixie tubes
+- Heavy-duty enclosure built from extruded aluminum profiles
+- Rotary switch and two solid push buttons
+- Direct front-panel control
+- No Wi-Fi, no Bluetooth, no app
+- 12 V DC power input
+
+## Design Philosophy
+
+This project was inspired by vintage laboratory and industrial control equipment. The enclosure is built from extruded aluminum profiles. The goal was to build a clock that does one thing well: display the time. All clock settings are accessible directly from the front panel using a rotary switch and two push buttons. The clock operates entirely offline. There is no Wi-Fi, Bluetooth, or app.
