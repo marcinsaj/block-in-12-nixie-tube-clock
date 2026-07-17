@@ -1,5 +1,7 @@
 # BLOCK IN-12 Nixie Tube Clock
 
+## work in progress...
+
 ## Features
 
 - 4 × IN-12 Nixie tubes
