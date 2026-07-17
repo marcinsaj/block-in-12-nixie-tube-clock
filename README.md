@@ -1,6 +1,6 @@
 # BLOCK IN-12 Nixie Tube Clock
 
-## work in progress...
+## ...work in progress...
 
 ## Features
 
