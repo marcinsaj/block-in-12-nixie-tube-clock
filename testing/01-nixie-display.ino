@@ -52,8 +52,8 @@ const int SCK_PIN      = PIN_PB5;  // SPI - SCK
 const int SS_PIN       = PIN_PB2;  // SPI - SS
 
 // Buttons
-const int ADJ_BT_PIN   = PIN_PD1;  // ADJUST button
-const int SAV_BT_PIN   = PIN_PC0;  // SAVE button
+const int BT_ADJ_PIN   = PIN_PC0;  // ADJUST button
+const int BT_SAV_PIN   = PIN_PC1;  // SAVE button
 
 // RTC
 const int INT_RTC_PIN  = PIN_PD2;  // RTC interrupt input
@@ -62,23 +62,13 @@ const int INT_RTC_PIN  = PIN_PD2;  // RTC interrupt input
 const int LED_SLP_PIN  = PIN_PD5;  // Sleep indicator
 const int LED_STS_PIN  = PIN_PD3;  // Status indicator
 
+
 void setup()
 {
   // SPI
   pinMode(SS_PIN, OUTPUT);
   digitalWrite(SS_PIN, HIGH);
   SPI.begin();
-
-  // LEDs
-  pinMode(LED_SLP_PIN, OUTPUT);
-  pinMode(LED_STS_PIN, OUTPUT);
-
-  // Buttons
-  pinMode(ADJ_BT_PIN, INPUT_PULLUP);
-  pinMode(SAV_BT_PIN, INPUT_PULLUP);
-
-  // RTC interrupt
-  pinMode(INT_RTC_PIN, INPUT);
 
   // Nixie HV power supply
   pinMode(ENA_PIN, OUTPUT);
