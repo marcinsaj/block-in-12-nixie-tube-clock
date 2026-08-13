@@ -23,7 +23,7 @@ Programming Procedure:
 
 Cathode poisoning prevention - slot machine effect:
 Every 10 seconds all tubes spin through digits 0-9 fast,
-then decelerate and stop one by one from left to right.
+then decelerate and stop one by one from right to left.
 
 Between slot machine cycles, tubes show 12:34 as a test pattern. */
 
@@ -122,7 +122,7 @@ void loop()
 // Cathode poisoning prevention animation:
 // 1. All 4 tubes spin through digits 0-9 together at fast speed (3 full cycles)
 // 2. Each tube decelerates over 2 full 0-9 cycles and stops on its final digit
-//    Tubes stop one by one from left to right, 300ms pause between each
+//    Tubes stop one by one from right to left
 //
 // The deceleration uses a quadratic curve (step^2) instead of linear.
 // This makes the slowdown much more natural:
@@ -160,7 +160,7 @@ void slotMachine()
   // Total steps in deceleration = DECEL_CYCLES * 10 digits
   int totalSteps = DECEL_CYCLES * 10;
 
-  for (int tube = 0; tube < 4; tube++)
+  for (int tube = 3; tube >= 0; tube--)
   {
     // This tube decelerates over 2 full 0-9 cycles (20 steps)
     for (int step = 0; step < totalSteps; step++)
