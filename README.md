@@ -9,7 +9,7 @@
 - Rotary switch and two solid push buttons
 - Direct front-panel control
 - No Wi-Fi, no Bluetooth, no app
-- 12 V DC power input
+- 12 VDC / 1A power input
 
 ## Design Philosophy
 
