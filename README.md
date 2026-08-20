@@ -16,3 +16,6 @@
 This project was inspired by vintage laboratory and industrial control equipment. The enclosure is built from extruded aluminum profiles. The goal was to build a clock that does one thing well: display the time. All clock settings are accessible directly from the front panel using a rotary switch and two push buttons. The clock operates entirely offline. There is no Wi-Fi, Bluetooth, or app.
 
 ![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-01.webp)
+![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-02.webp)
+![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-03.webp)
+![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-04.webp)
