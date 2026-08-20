@@ -1,6 +1,6 @@
 # BLOCK IN-12 Nixie Tube Clock
 
-## ...work in progress...
+## [Kickstarter Campaign](https://www.kickstarter.com/projects/marcinsaj/block-in-12-nixie-tube-clock)
 
 ## Features
 
