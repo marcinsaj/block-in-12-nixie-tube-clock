@@ -57,9 +57,11 @@ Selecting **IDL** manually places the clock in Idle mode.
 
 The Nixie tubes are switched off, while the clock itself remains powered and continues keeping time.
 
-An internal status LED slowly pulses while the clock is in **IDL** mode. The LED is located inside the enclosure and its light is visible through the ventilation openings.
+An internal status LED, located at the **rear of the enclosure**, slowly pulses while the clock is in **IDL** mode. The LED is mounted inside the enclosure, and its light is visible through the rear ventilation openings.
 
 This provides a subtle indication that the clock is still powered even though the Nixie tubes are off.
+
+In all other operating modes, the internal status LED remains steadily illuminated.
 
 ## Sleep and Wake-Up
 
@@ -82,9 +84,9 @@ While the clock is within the scheduled Sleep period:
 
 * the Nixie tubes are switched off
 * the clock continues running internally
-* the **Sleep indicator LED** next to SLP on the front panel slowly pulses
+* the **Sleep indicator LED** next to **SLP** on the front panel slowly pulses
 
-The pulsing front-panel LED makes it clear that the tubes are off because the clock is in its scheduled Sleep period rather than because the clock has been switched off.
+The pulsing front-panel LED indicates that the tubes are intentionally off because the clock is currently within its programmed Sleep period.
 
 At the programmed **WUP** time, the Nixie tubes automatically switch back on and the Sleep indicator LED turns off.
 
@@ -152,16 +154,14 @@ In the United States, this type of 24-hour notation is commonly referred to as *
 
 The clock uses two separate status indicators.
 
-| Indicator               | Location                                                       | Behavior                                                                                    |
-| ----------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Internal Status LED** | Inside the enclosure, visible through the ventilation openings | Slowly pulses in **IDL** mode and remains steadily illuminated in all other operating modes |
-| **Sleep Indicator LED** | Front panel, next to **SLP**                                   | Slowly pulses only while the scheduled Sleep period is active                               |
+| Indicator               | Location                                                                        | Behavior                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Internal Status LED** | Inside the enclosure at the rear, visible through the rear ventilation openings | Slowly pulses in **IDL** mode and remains steadily illuminated in all other operating modes |
+| **Sleep Indicator LED** | Front panel, next to **SLP**                                                    | Slowly pulses only while the scheduled Sleep period is active                               |
 
-The internal status LED provides a general indication that the clock is powered.
+The internal status LED provides a general indication that the clock is powered and operating.
 
-In **IDL** mode it uses a slow breathing effect. In all other modes it remains continuously illuminated.
-
-The front-panel Sleep indicator has a different purpose. It indicates specifically that the automatic Sleep schedule is currently active and that the Nixie tubes have been intentionally switched off by the clock.
+The front-panel Sleep indicator has a separate purpose. It indicates specifically that the automatic Sleep schedule is currently active and that the Nixie tubes have been intentionally switched off by the clock.
 
 ## Rear Panel
 
@@ -173,7 +173,8 @@ The rear panel contains:
 
 The main power switch is located directly next to the power input connector and completely switches the clock on or off.
 
-The internal status LED is visible through the ventilation openings, providing a discreet power and operating-status indication without requiring an additional external rear-panel LED.
+The internal status LED is mounted inside the enclosure at the rear and is visible through the ventilation openings. It provides a discreet indication of the clock's operating state without requiring an additional externally mounted LED.
+
 
 
 
