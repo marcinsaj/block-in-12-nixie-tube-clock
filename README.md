@@ -8,8 +8,6 @@ This project was inspired by vintage laboratory and industrial control equipment
 
 # BLOCK IN-12 — Features and Controls
 
-# BLOCK IN-12 — Features and Controls
-
 ## Key Features
 
 * 4 × IN-12 Nixie tubes
