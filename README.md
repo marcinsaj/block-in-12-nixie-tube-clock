@@ -21,6 +21,9 @@ All clock settings are accessible directly from the front panel using a rotary s
 - No Wi-Fi, no Bluetooth, no app
 - Rear-mounted main power switch
 - 12 VDC / 1 A power input
+
+![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-01.webp)
+
 ## Front Panel Controls
 
 The clock is operated using an **8-position rotary selector** and two push buttons.
@@ -49,6 +52,8 @@ The rotary selector provides direct access to eight clock functions.
 | **LZO**  | Leading Zero | Enables or disables the leading zero for single-digit hours.                                        |
 | **REF**  | Tube Refresh | Sets the interval of the automatic tube refresh routine used to help reduce cathode poisoning.      |
 | **HRS**  | Hour Format  | Selects the 12-hour or 24-hour time display format used during normal Clock operation.              |
+
+![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-02.webp)
 
 ## Idle Mode
 
@@ -174,10 +179,4 @@ The main power switch is located directly next to the power input connector and 
 
 The internal status LED is mounted inside the enclosure at the rear and is visible through the ventilation openings. It provides a discreet indication of the clock's operating state without requiring an additional externally mounted LED.
 
-
-
-![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-01.webp)
-![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-02.webp)
 ![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-03.webp)
-![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-04.webp)
-
