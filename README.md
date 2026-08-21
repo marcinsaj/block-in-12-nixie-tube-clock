@@ -1,27 +1,26 @@
 # BLOCK IN-12 Nixie Tube Clock
 
-## [Kickstarter Campaign](https://www.kickstarter.com/projects/marcinsaj/block-in-12-nixie-tube-clock)
+**[View the Kickstarter Campaign →](https://www.kickstarter.com/projects/marcinsaj/block-in-12-nixie-tube-clock)**
 
 ## Design Philosophy
 
-This project was inspired by vintage laboratory and industrial control equipment. The enclosure is built from extruded aluminum profiles. The goal was to build a clock that does one thing well: display the time. All clock settings are accessible directly from the front panel using a rotary switch and two push buttons. The clock operates entirely offline. There is no Wi-Fi, Bluetooth, or app.
+This project was inspired by vintage laboratory and industrial control equipment. The enclosure is built from extruded aluminum profiles. The goal was to build a clock that does one thing well: display the time — and look distinctive doing it.
 
-# BLOCK IN-12 — Features and Controls
+All clock settings are accessible directly from the front panel using a rotary switch and two push buttons. The clock operates entirely offline. There is no Wi-Fi, Bluetooth, or app.
 
 ## Key Features
 
-* 4 × IN-12 Nixie tubes
-* Heavy-duty enclosure built from extruded aluminum profiles
-* 8-position rotary selector switch
-* Two physical push buttons: **ADJUST** and **SAVE**
-* Fully physical front-panel controls
-* Programmable Sleep and Wake-Up times
-* Automatic tube refresh routine
-* Selectable 12-hour or 24-hour display
-* No Wi-Fi, no Bluetooth, no app
-* Rear-mounted main power switch
-* 12 VDC / 1 A power input
-
+- 4 × IN-12 Nixie tubes
+- Heavy-duty enclosure built from extruded aluminum profiles
+- 8-position rotary selector switch
+- Two physical push buttons: **ADJUST** and **SAVE**
+- Fully physical front-panel controls
+- Programmable Sleep and Wake-Up times
+- Automatic tube refresh routine
+- Selectable 12-hour or 24-hour display
+- No Wi-Fi, no Bluetooth, no app
+- Rear-mounted main power switch
+- 12 VDC / 1 A power input
 ## Front Panel Controls
 
 The clock is operated using an **8-position rotary selector** and two push buttons.
