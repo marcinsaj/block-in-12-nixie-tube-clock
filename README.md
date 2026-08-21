@@ -18,8 +18,8 @@ This project was inspired by vintage laboratory and industrial control equipment
 * Programmable Sleep and Wake-Up times
 * Automatic tube refresh routine
 * Selectable 12-hour or 24-hour display
-* Rear-mounted main power switch
 * No Wi-Fi, no Bluetooth, no app
+* Rear-mounted main power switch
 * 12 VDC / 1 A power input
 
 ## Front Panel Controls
@@ -95,8 +95,8 @@ At the programmed **WUP** time, the Nixie tubes automatically switch back on and
 The **LZO** setting controls whether a leading zero is displayed for single-digit hours.
 
 ```text
-LZO ON   08:35
-LZO OFF   8:35
+LZO ON   01:11
+LZO OFF   1:11
 ```
 
 ## Tube Refresh
@@ -120,8 +120,8 @@ The **HRS** setting determines how the time is displayed during normal **CLK** o
 
 | Setting | Display Format |
 | ------- | -------------- |
-| **12H** | 12-hour format |
-| **24H** | 24-hour format |
+|  **12** | 12-hour format |
+|  **24** | 24-hour format |
 
 The HRS setting affects only the way the current time is displayed.
 
@@ -148,7 +148,7 @@ For example:
 
 Even when **HRS** is set to **12H**, SET, SLP and WUP are still adjusted using 24-hour time.
 
-In the United States, this type of 24-hour notation is commonly referred to as **military time**.
+In the United States, the 24-hour format is also commonly referred to as military time.
 
 ## Status Indicators
 
@@ -174,7 +174,6 @@ The rear panel contains:
 The main power switch is located directly next to the power input connector and completely switches the clock on or off.
 
 The internal status LED is mounted inside the enclosure at the rear and is visible through the ventilation openings. It provides a discreet indication of the clock's operating state without requiring an additional externally mounted LED.
-
 
 
 
