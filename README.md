@@ -2,6 +2,8 @@
 
 **[View the Kickstarter Campaign →](https://www.kickstarter.com/projects/marcinsaj/block-in-12-nixie-tube-clock)**
 
+![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-01.webp)
+
 ## Design Philosophy
 
 This project was inspired by vintage laboratory and industrial control equipment. The enclosure is built from extruded aluminum profiles. The goal was to build a clock that does one thing well: display the time — and look distinctive doing it.
@@ -28,8 +30,6 @@ All clock settings are accessible directly from the front panel using a rotary s
 - Clock Enclosure Assembly Instructions - todo...
 - [Schematic - BLOCK IN-12 Nixie Tube Clock](https://raw.githubusercontent.com/marcinsaj/block-in-12-nixie-tube-clock/main/datasheet/schematic-block-in-12-nixie-tube-clock.pdf)
 - [Schematic - Rotary Selector - Settings Module](https://raw.githubusercontent.com/marcinsaj/block-in-12-nixie-tube-clock/main/datasheet/schematic-rotary-selector-block-in-12-nixie-tube-clock.pdf)
-
-![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-01.webp)
 
 ## Functional Testing
   1. [Nixie Display](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/testing/01-nixie-display.ino)
