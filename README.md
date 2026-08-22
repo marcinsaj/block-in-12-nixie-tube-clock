@@ -22,6 +22,13 @@ All clock settings are accessible directly from the front panel using a rotary s
 - Rear-mounted main power switch
 - 12 VDC / 1 A power input
 
+## Datasheet
+
+- Firmware - todo...
+- Clock Enclosure Assembly Instructions - todo...
+- [Schematic - BLOCK IN-12 Nixie Tube Clock](https://raw.githubusercontent.com/marcinsaj/block-in-12-nixie-tube-clock/main/datasheet/schematic-block-in-12-nixie-tube-clock.pdf)
+- [Schematic - Rotary Selector - Settings Module](https://raw.githubusercontent.com/marcinsaj/block-in-12-nixie-tube-clock/main/datasheet/schematic-rotary-selector-block-in-12-nixie-tube-clock.pdf)
+
 ![BLOCK - IN-12 Nixie Tube Clock](https://github.com/marcinsaj/block-in-12-nixie-tube-clock/blob/main/extras/block-in-12-nixie-tube-clock-01.webp)
 
 ## Front Panel Controls
