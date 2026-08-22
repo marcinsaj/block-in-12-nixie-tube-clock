@@ -717,7 +717,7 @@ void runOptionMode(uint8_t target)
 // Leading zero off -> 1:23 with tube 1 dark, tubes 2, 3 and 4 blink
 void showZeroOption()
 {
-  uint8_t digits[4] = { 0, 1, 1, 1 };
+  uint8_t digits[4] = { 0, 1, 2, 3 };
 
   // With the leading zero switched off the first tube is never lit
   if (editOption == 0) digits[0] = CLR;
